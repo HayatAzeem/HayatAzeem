@@ -95,15 +95,15 @@
 
 ### 📊 GitHub Insights
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=HayatAzeem&show_icons=true&theme=radical" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=HayatAzeem&theme=radical" />
 </p>
 
 ---
 
 ### 👁️ Visitor Count
 <p align="center">
-  <img src="https://profile-counter.glitch.me/your-github-username/count.svg" />
+  <img src="https://profile-counter.glitch.me/HayatAzeem/count.svg" />
 </p>
 
 ---
