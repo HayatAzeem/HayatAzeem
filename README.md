@@ -3,10 +3,10 @@
 <h4 align="center">🚀 Full-Stack Developer | 🎨 UI/UX & Animations | 🛡️ Cybersecurity Learner | 🤖 ML Explorer</h4>
 
 <p align="center">
-  <a href="https://github.com/your-github-username">
-    <img src="https://img.shields.io/github/followers/your-github-username?label=Follow%20Me&style=social" alt="GitHub Follow" />
+  <a href="https://github.com/HayatAzeem">
+    <img src="https://img.shields.io/github/followers/HayatAzeem?label=Follow%20Me&style=social" alt="GitHub Follow" />
   </a>
-  <a href="https://www.linkedin.com/in/your-linkedin-profile/">
+  <a href="https://www.linkedin.com/in/hayat-azeem/">
     <img src="https://img.shields.io/badge/LinkedIn-Hayat%20Azeem-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
