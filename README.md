@@ -6,7 +6,7 @@
   <a href="https://github.com/HayatAzeem">
     <img src="https://img.shields.io/github/followers/HayatAzeem?label=Follow%20Me&style=social" alt="GitHub Follow" />
   </a>
-  <a href="https://www.linkedin.com/in/hayat-azeem/">
+  <a href="[https://www.linkedin.com/in/hayat-azeem/](https://www.linkedin.com/in/hayat-azeem-35245as/?trk=opento_sprofile_details)">
     <img src="https://img.shields.io/badge/LinkedIn-Hayat%20Azeem-blue?logo=Linkedin&logoColor=blue&labelColor=black" alt="LinkedIn" />
   </a>
   <a href="#" target="_blank">
