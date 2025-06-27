@@ -121,7 +121,7 @@
 --- -->
 
 ### 🐍 Contribution Snake (Fun!)
-![Snake Animation](https://raw.githubusercontent.com/sheersh01/sheersh01/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/HayatAzeem/HayatAzeem/output/github-contribution-grid-snake.svg)
 
 ---
 
