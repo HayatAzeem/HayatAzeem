@@ -13,7 +13,7 @@ jobs:
       - name: Generate Snake SVG
         uses: athul/snk@main  # Fork with full customization support
         with:
-          github_user_name: sheersh01
+          github_user_name: HayatAzeem
           outputs: |
             ./dist/github-contribution-grid-snake.svg
           # 👇 Customization options for Dark Cyberpunk Theme:
