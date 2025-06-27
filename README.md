@@ -108,7 +108,7 @@
 
 ---
 
-### 🌇 GitHub Skyline (3D Contribution Animation)
+<!--### 🌇 GitHub Skyline (3D Contribution Animation)
 
 <p align="center">
   <a href="https://skyline.github.com/HayatAzeem/2024">
@@ -118,10 +118,10 @@
   </a>
 </p>
 
----
+--- -->
 
 ### 🐍 Contribution Snake (Fun!)
-![Snake Animation](https://raw.githubusercontent.com/HayatAzeem/HayatAzeem/output/github-contribution-grid-snake.svg)
+![Snake Animation](https://raw.githubusercontent.com/HayatAzeem/output/github-contribution-grid-snake.svg)
 
 ---
 
