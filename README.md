@@ -120,7 +120,7 @@
 
 --- -->
 
- ### 🐍 Contribution Snake (Fun!)
+<!-- ### 🐍 Contribution Snake (Fun!)
 ![Snake animation](https://github.com/HayatAzeem/HayatAzeem/blob/output/github-contribution-grid-snake.svg)
 
 ---
